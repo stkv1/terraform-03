@@ -11,3 +11,11 @@
 Созданные ВМ из count-vm.tf и for_each-vm.tf
 
 ![sec](https://github.com/stkv1/terraform-03/blob/main/pic/02-14.PNG)
+
+## Задание 3
+
+Созданные диски, подключенные к ВМ storage
+
+![sec](https://github.com/stkv1/terraform-03/blob/main/pic/03-2.PNG)
+
+![sec](https://github.com/stkv1/terraform-03/blob/main/pic/03-3.PNG)
