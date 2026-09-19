@@ -19,3 +19,7 @@
 ![sec](https://github.com/stkv1/terraform-03/blob/main/pic/03-2.PNG)
 
 ![sec](https://github.com/stkv1/terraform-03/blob/main/pic/03-3.PNG)
+
+## Задание 4
+
+
