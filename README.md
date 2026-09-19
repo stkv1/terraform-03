@@ -22,4 +22,6 @@
 
 ## Задание 4
 
+Сгенерированный инвентори-файл
 
+![sec](https://github.com/stkv1/terraform-03/blob/main/pic/03-4.PNG)
