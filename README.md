@@ -5,3 +5,9 @@
 Правила группы безопасности
 
 ![sec](https://github.com/stkv1/terraform-03/blob/main/pic/09.PNG)
+
+## Задание 2
+
+Созданные ВМ из count-vm.tf и for_each-vm.tf
+
+![sec](https://github.com/stkv1/terraform-03/blob/main/pic/02-14.PNG)
